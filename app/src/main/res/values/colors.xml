@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="showBandColor">#d7ccc8</color>
+    <color name="detailsBandColor">#e57373</color>
+    <color name="showBandBio">#e57373</color>
+    <color name="basePanel">#0fffffff</color>
+    <color name="drawer">#303030</color>
+    <color name="placeholder_color">#000000</color>
+    <color name="band_status_active">#4caf50</color>
+    <color name="band_status_not_active">#ef5350</color>
+    <color name="band_status_other">#616161</color>
+</resources>

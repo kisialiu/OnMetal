@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">OnMetal</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="default_band">DefaultBand</string>
+    <string name="name">%1$s</string>
+    <string name="genre">Genre: %1$s</string>
+    <string name="country">Country: %1$s</string>
+    <string name="main_search_button">Band</string>
+    <string name="main_search_album_button">Album</string>
+    <string name="main_search_genre">Genre</string>
+    <string name="main_search_latest_releases">Latest releases</string>
+    <string name="main_search_recommendations">Recommendations</string>
+    <string name="start_search">Start searching</string>
+    <string name="liked_bands">Liked bands</string>
+    <string name="liked_albums">Liked albums</string>
+    <string name="account_info">Account Info</string>
+    <string name="search_band_text_hint">Please enter a band or album name</string>
+    <string name="band_screen_details">Tap to show bio ></string>
+    <string name="band_screen_discs">Discs</string>
+    <string name="band_screen_lineup">Lineup</string>
+    <string name="album_songs">Tap to show songs ></string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="login_message">Please login with one of the social networks:</string>
+    <string name="loading_next_items">Loading next items…</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="facebook_app_id">192472914640593</string>
+    <string name="fb_login_protocol_scheme">fb192472914640593</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="album_other">Other releases by the band</string>
+    <integer name="com_vk_sdk_AppId">6356065</integer>
+</resources>
+
